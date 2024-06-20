@@ -1,2 +1,3 @@
 # Tugas 1
-Test
+Tes
+Tes
